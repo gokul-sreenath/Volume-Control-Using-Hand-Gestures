@@ -44,12 +44,6 @@ Minimum confidence value ([0.0, 1.0]) from the landmark-tracking model for the h
 
 <br>
 
-<div align="center">
-    <img alt="mediapipeLogo" src="images/hand_landmarks_docs.png" height="200 x    " />
-    <img alt="mediapipeLogo" src="images/htm.jpg" height="360 x" weight ="640 x" />
-    
-</div>
-
 <a href="https://twitter.com/Gokul_Sreenath_"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" width="25">@gokulsreenath</img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/gokulsreenath/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"> Gokul Sreenath</img></a>
 
 </div>
